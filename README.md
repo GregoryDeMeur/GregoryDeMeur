@@ -24,9 +24,12 @@ I'm a student software developer based in Belgium 🇧🇪. Currently in my fina
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
 
-### My Portfolio
+### My Projects
 
-- [GregoryDeMeur - Portfolio](https://www.gregorydemeur.be/)
-- [GDM-TO-DO-LIST](https://www.gregorydemeur.be/gdm-to-do-list/)
-- [uBento](https://bento-order-9a9fe.web.app/)
-- [AnimAlice](https://www.animalice.be)
+🚀 [GregoryDeMeur - Portfolio](https://www.gregorydemeur.be/) - My personal portfolio website.
+
+📝 [GDM-TO-DO-LIST](https://www.gregorydemeur.be/gdm-to-do-list/) - A modern to-do list app with categories and CRUD functionality.
+
+🍱 [uBento](https://bento-order-9a9fe.web.app/) - Create and order your own bento box.
+
+🏢 [Website for AnimAlice](https://www.animalice.be) - A website designed for the company AnimAlice.
