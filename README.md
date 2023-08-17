@@ -11,7 +11,7 @@ I'm a student software developer based in Belgium 🇧🇪. Currently in my fina
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white&logoWidth=20)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+
 
 
 ### Techs I've Worked With
