@@ -26,7 +26,7 @@ I'm a student software developer based in Belgium 🇧🇪. Currently in my fina
 
 ### My Portfolio
 
-- [GregoryDeMeur - Portfolio]([link-to-project](https://www.gregorydemeur.be/))
-- [GDM-TO-DO-LIST]([link-to-project](https://www.gregorydemeur.be/gdm-to-do-list/))
-- [uBento]([link-to-project](https://bento-order-9a9fe.web.app/))
+- [GregoryDeMeur - Portfolio](https://www.gregorydemeur.be/)
+- [GDM-TO-DO-LIST](https://www.gregorydemeur.be/gdm-to-do-list/)
+- [uBento](https://bento-order-9a9fe.web.app/)
 - [AnimAlice](https://www.animalice.be)
