@@ -23,3 +23,10 @@ I'm a student software developer based in Belgium 🇧🇪. Currently in my fina
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+
+### My Portfolio
+
+- [GregoryDeMeur - Portfolio]([link-to-project](https://www.gregorydemeur.be/))
+- [GDM-TO-DO-LIST]([link-to-project](https://www.gregorydemeur.be/gdm-to-do-list/))
+- [uBento]([link-to-project](https://bento-order-9a9fe.web.app/))
+- [AnimAlice](https://www.animalice.be)
