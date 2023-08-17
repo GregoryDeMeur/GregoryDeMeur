@@ -32,4 +32,4 @@ I'm a student software developer based in Belgium 🇧🇪. Currently in my fina
 
 🍱 [uBento](https://bento-order-9a9fe.web.app/) - Create and order your own bento box.
 
-🏢 [Website for AnimAlice](https://www.animalice.be) - A website designed for the company AnimAlice.
+🐾 [Website for AnimAlice](https://www.animalice.be) - A website designed for the company AnimAlice.
