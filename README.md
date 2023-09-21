@@ -1,4 +1,4 @@
-### Hello 👋
+Hello 👋
 
 I'm a student software developer based in Belgium 🇧🇪. Currently in my final year of studies, I'm actively seeking an internship opportunity to collaborate on projects and continue my learning journey.
 
