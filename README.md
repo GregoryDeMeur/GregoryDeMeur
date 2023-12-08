@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm a student software developer based in Belgium 🇧🇪. Currently in my final year of studies and interning at [Beehire](https://www.beehire.com).
+I'm a student software developer based in Belgium 🇧🇪. Currently in my final year of studies.
 
 ### My Main Techs
 
