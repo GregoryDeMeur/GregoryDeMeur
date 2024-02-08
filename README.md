@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm a student software developer based in Belgium 🇧🇪. Currently in my final year of studies.
+I'm a Software Developer Junior. Currently working as a Fullstack NodeJS/Angular @ [Beehire](https://www.beehire.com)
 
 ### My Main Techs
 
