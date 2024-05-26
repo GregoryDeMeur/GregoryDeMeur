@@ -34,6 +34,6 @@ I'm a Software Developer Junior. Currently working as a Fullstack NodeJS/Angular
 
 📝 [GDM-TO-DO-LIST](https://www.gregorydemeur.be/gdm-to-do-list/) - A modern to-do list app with categories and CRUD functionality.
 
-🍱 [uBento](https://bento-order-9a9fe.web.app/) - Create and order your own bento box.
+🍱 [uBento](https://www.ubento.be/) - Create and order your own bento box.
 
 🐾 [Website for AnimAlice](https://www.animalice.be) - A website designed for the company AnimAlice.
